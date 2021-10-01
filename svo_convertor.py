@@ -26,7 +26,7 @@ import sys
 import pyzed.sl as sl
 import numpy as np
 import cv2
-from pathlib import Path, PurePath, PurePosixPath
+from pathlib import Path
 
 def progress_bar(percent_done, bar_length=50):
     done_length = int(bar_length * percent_done / 100)

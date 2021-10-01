@@ -5,9 +5,7 @@
 ############################################
 
 import svo_convertor as svocon
-'''
 import video_analysis as va
-'''
 import tkinter as tk
 from  tkinter import Button, Grid, Label, filedialog
 
